@@ -1,1 +1,4 @@
 void walk()
+
+
+void time()
